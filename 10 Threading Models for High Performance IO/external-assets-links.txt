@@ -1,0 +1,9 @@
+
+035 Eclipse-Vert.x-Reactive-applications-on-the-JVM
+https://vertx.io/
+
+035 Netty-A-Java-Client-Server-Framework-built-with-Non-Blocking-APIs
+https://netty.io/wiki/user-guide-for-5.x.html
+
+035 Reactive-Programming-with-Spring-Webflux
+https://spring.io/guides/gs/reactive-rest-service/

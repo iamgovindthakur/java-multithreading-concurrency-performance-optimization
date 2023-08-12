@@ -1,0 +1,9 @@
+
+040 Top-3-Projects-For-Java-Concurrency
+https://medium.com/@MPogrebinsky/top-3-projects-for-java-concurrency-8c0752724e72
+
+040 Advanced-The-Performance-Engineers-Guide-To-Java-HotSpot-by-Monica-Beckwith
+https://www.youtube.com/watch?v=6a4Id3lj7Sw
+
+040 Advanced-Java-9-Beyond-Contention-Monica-Beckwith
+https://www.youtube.com/watch?v=TRGRnCAF4iQ

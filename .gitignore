@@ -1,0 +1,70 @@
+# IntelliJ IDEA
+.idea/
+
+# Compiled class files
+*.class
+
+# Compiled JAR files
+*.jar
+
+# Compiled WAR files
+*.war
+
+# Compiled EAR files
+*.ear
+
+# Temporary files
+target/
+
+# Eclipse project files
+.classpath
+.project
+
+# Maven files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/shelf
+
+# User-specific files
+.idea/replstate.xml
+.idea/misc.xml
+
+# Logs
+*.log
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# README and LICENSE files
+**/README.md
+**/LICENSE
+
+# IntelliJ IDEA code style settings
+.idea/codeStyles/
+*.iml
+*.iws
+*.ipr
+*.log
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/usage.statistics.xml
+
+# Visual Studio Code settings
+.vscode/

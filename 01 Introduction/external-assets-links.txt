@@ -1,0 +1,6 @@
+
+002 -Advanced-Inside-the-Linux-Scheduler
+https://developer.ibm.com/tutorials/l-completely-fair-scheduler/
+
+002 Thread-States
+https://docs.oracle.com/javase/8/docs/api/java/lang/Thread.State.html
